@@ -2,7 +2,7 @@
       body {
         padding: 20px;
         color: black;
-        background-color: #A0522D;
+        background-color: #b3b3b3;
         text-align: center;
       }   
 
@@ -199,7 +199,7 @@
       }
 
       #myButton {
-        background-color: darkred;
+        background-color:red;
         border: 1px solid black;
         font-family: 'Oswald', monospace;
         font-size: 16px;
